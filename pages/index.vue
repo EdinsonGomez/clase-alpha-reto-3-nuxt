@@ -1,0 +1,4 @@
+<template>
+  <InputFile />
+  <Table />
+</template>
